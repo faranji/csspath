@@ -1,0 +1,31 @@
+.body{
+    /*background-color: #16b8f3;*/
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/b8149e84545239.5d5ffb2bdb9b0.jpg) ;
+    
+}   
+ /**   
+.container a{
+    font-size: 120px;
+    color:#115E83;
+    height: 200px;
+    
+}
+*/
+/* 
+Neden display block yaptık??
+text-align: center;
+display: block;
+yapmıştık da neden
+*/
+
+
+
+.cerceve{
+    background-color:  #16b8f3;
+    width:50px;
+    height: 100px;
+    margin: auto;
+    
+}
+
+
